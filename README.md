@@ -4,6 +4,7 @@
 ### Session Goals
 1. Understand how the Cortana Intelligence Suite can be utilized to build end to end solutions, with predictive maintenance as the example use case
 2. Learn about the underlying technologies in a hands-on manner with associated material for deep dive study
+![alt text](https://acom.azurecomcdn.net/80C57D/cdn/mediahandler/docarticles/dpsmedia-prod/azure.microsoft.com/en-us/documentation/articles/cortana-analytics-technical-guide-predictive-maintenance/20160415071221/predictive-maintenance-architecture.png "Logo Title Text 1")
 
 ### Prerequisites
 
