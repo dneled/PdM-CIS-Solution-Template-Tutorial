@@ -30,7 +30,7 @@
 
 ###Go Do's after the tutorial
 1. Want to do the template by hand? See deployment guide here: https://github.com/Azure/Cortana-Intelligence-Suite-Industry-Solutions/tree/master/Aerospace/Predictive%20Maintenance
-2. Interested in IOT? See the predictive maintenance pre-configured solution at https://azureiotsuite.com
+2. Interested in IOT? See the predictive maintenance pre-configured solution at https://www.azureiotsuite.com
 
 ### Other Notes
 1. If you want to demo this material, feel free to request access to the 24/7 running PBI dashboard here: https://msit.powerbi.com/groups/me/dashboards/24a7a8cf-c863-4337-a075-d9bd10ac0aa1
