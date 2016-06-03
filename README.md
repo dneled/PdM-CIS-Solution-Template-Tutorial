@@ -31,5 +31,5 @@
 
 ### Other Notes
 1. If you want to demo this material, feel free to request access to the 24/7 running PBI dashboard here: https://msit.powerbi.com/groups/me/dashboards/24a7a8cf-c863-4337-a075-d9bd10ac0aa1
-2. Instructor emails: danielle.dean@microsoft.com and gshaheen@microsoft.com - please email us for the internal-only Rolls Royce Demo (but demo-able externally)
+2. Instructor emails: danielle.dean@microsoft.com and gshaheen@microsoft.com
 3. Thanks to our TA's! Hong and Mary
