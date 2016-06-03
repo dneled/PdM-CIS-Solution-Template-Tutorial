@@ -1,0 +1,35 @@
+6/2/2016 8:12 AM [  1]: Starting Generator in Domain: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\
+6/2/2016 8:12 AM [  1]: Scanning for generators.....
+6/2/2016 8:12 AM [  1]: AppConfig Setting: EventHubName -> danielle160531ingesteventhub2221240
+6/2/2016 8:12 AM [  1]: AppConfig Setting: EventHubConnectionString -> Endpoint=sb://danielle1605312221240.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=eYOUQ7gy1FAU9ON0szRwiCEDAvNVcUiJwsZcerm8NH0=
+6/2/2016 8:12 AM [  1]: AppConfig Setting: StorageAccountConnectionString -> DefaultEndpointsProtocol=https;AccountName=danielle1605312221240;AccountKey=vQAz04juiQ7Z7VkIQiJ8cuXxIBbuBerImG/KefjyVijN3DLmme7FJmFVHALveKc86Qfylx/bTc5MDX8kKO0PRQ==
+6/2/2016 8:12 AM [  1]: Searching Generators: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\
+6/2/2016 8:12 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\Microsoft.Azure.KeyVault.Core.dll
+6/2/2016 8:12 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\Microsoft.Data.Edm.dll
+6/2/2016 8:12 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\Microsoft.Data.OData.dll
+6/2/2016 8:12 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\Microsoft.Data.Services.Client.dll
+6/2/2016 8:12 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\Microsoft.ServiceBus.dll
+6/2/2016 8:12 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\Microsoft.WindowsAzure.Storage.dll
+6/2/2016 8:12 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\Newtonsoft.Json.dll
+6/2/2016 8:12 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\SACommon.dll
+6/2/2016 8:12 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\SAPMGeneratorEngine.dll
+6/2/2016 8:12 AM [  1]: Generator Found : SAPMGeneratorEngine.SAPMDataGenerator 
+6/2/2016 8:12 AM [  1]: Generator Predictive Maintenance Data Generator using individual configuration
+6/2/2016 8:12 AM [  1]: Attempting to LOAD config for Predictive Maintenance Data Generator at location C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\PredictiveMaintenanceDataGeneratorConfig.json
+6/2/2016 8:12 AM [  1]: Type Succesfully Constructed : Predictive Maintenance Data Generator 
+6/2/2016 8:12 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\System.Spatial.dll
+6/2/2016 8:12 AM [  1]: Generator data is available
+6/2/2016 8:12 AM [  1]: Active generator selected : Predictive Maintenance Data Generator
+6/2/2016 8:12 AM [  1]: Configuration Valid: True
+6/2/2016 8:12 AM [  1]: Configuration Valid: True
+6/2/2016 8:12 AM [  1]: Attempting to SAVE config for Predictive Maintenance Data Generator at location C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\PredictiveMaintenanceDataGeneratorConfig.json
+6/2/2016 8:12 AM [  1]: Configuration Valid: True
+6/2/2016 8:12 AM [  1]: Choose an action:
+
+	0 - Start
+	1 - Stop
+	2 - Configure
+	3 - Status
+	4 - Quit
+
+Selection: 

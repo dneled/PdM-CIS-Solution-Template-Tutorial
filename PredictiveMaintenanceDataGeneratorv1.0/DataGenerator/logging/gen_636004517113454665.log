@@ -1,0 +1,430 @@
+6/2/2016 8:08 AM [  1]: Starting Generator in Domain: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\
+6/2/2016 8:08 AM [  1]: Scanning for generators.....
+6/2/2016 8:08 AM [  1]: AppConfig Setting: EventHubName -> danielle160531ingesteventhub2221240
+6/2/2016 8:08 AM [  1]: AppConfig Setting: EventHubConnectionString -> Endpoint=sb://danielle1605312221240.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=eYOUQ7gy1FAU9ON0szRwiCEDAvNVcUiJwsZcerm8NH0=
+6/2/2016 8:08 AM [  1]: AppConfig Setting: StorageAccountConnectionString -> DefaultEndpointsProtocol=https;AccountName=danielle1605312221240;AccountKey=vQAz04juiQ7Z7VkIQiJ8cuXxIBbuBerImG/KefjyVijN3DLmme7FJmFVHALveKc86Qfylx/bTc5MDX8kKO0PRQ==
+6/2/2016 8:08 AM [  1]: Searching Generators: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\
+6/2/2016 8:08 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\Microsoft.Azure.KeyVault.Core.dll
+6/2/2016 8:08 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\Microsoft.Data.Edm.dll
+6/2/2016 8:08 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\Microsoft.Data.OData.dll
+6/2/2016 8:08 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\Microsoft.Data.Services.Client.dll
+6/2/2016 8:08 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\Microsoft.ServiceBus.dll
+6/2/2016 8:08 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\Microsoft.WindowsAzure.Storage.dll
+6/2/2016 8:08 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\Newtonsoft.Json.dll
+6/2/2016 8:08 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\SACommon.dll
+6/2/2016 8:08 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\SAPMGeneratorEngine.dll
+6/2/2016 8:08 AM [  1]: Generator Found : SAPMGeneratorEngine.SAPMDataGenerator 
+6/2/2016 8:08 AM [  1]: Generator Predictive Maintenance Data Generator using App.config configuration
+6/2/2016 8:08 AM [  1]: Setting Configuration Value: EventHubName -> danielle160531ingesteventhub2221240
+6/2/2016 8:08 AM [  1]: Setting Configuration Value: EventHubConnectionString -> Endpoint=sb://danielle1605312221240.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=eYOUQ7gy1FAU9ON0szRwiCEDAvNVcUiJwsZcerm8NH0=
+6/2/2016 8:08 AM [  1]: Type Succesfully Constructed : Predictive Maintenance Data Generator 
+6/2/2016 8:08 AM [  1]: Searching DLL: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\System.Spatial.dll
+6/2/2016 8:08 AM [  1]: Generator data is available
+6/2/2016 8:08 AM [  1]: Active generator selected : Predictive Maintenance Data Generator
+6/2/2016 8:08 AM [  1]: Configuration Valid: True
+6/2/2016 8:08 AM [  1]: Configuration Valid: True
+6/2/2016 8:08 AM [  1]: Attempting to SAVE config for Predictive Maintenance Data Generator at location C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\PredictiveMaintenanceDataGeneratorConfig.json
+6/2/2016 8:08 AM [  1]: Configuration Valid: True
+6/2/2016 8:08 AM [  1]: Choose an action:
+
+	0 - Start
+	1 - Stop
+	2 - Configure
+	3 - Status
+	4 - Quit
+
+Selection: 
+6/2/2016 8:08 AM [  1]: Selection Entered: 0
+6/2/2016 8:08 AM [  1]: Configuration Valid: True
+6/2/2016 8:08 AM [  1]: Initializing generator Predictive Maintenance Data Generator
+6/2/2016 8:08 AM [  1]: Initializing Generator: Predictive Maintenance Data Generator
+6/2/2016 8:08 AM [  1]: Starting generator Predictive Maintenance Data Generator
+6/2/2016 8:08 AM [  1]: Generator Starting : Predictive Maintenance Data Generator
+6/2/2016 8:08 AM [  1]: Initialization time  0:00:00.0156262
+6/2/2016 8:08 AM [  3]: ++Job Start Request Recieved++
+6/2/2016 8:08 AM [  1]: Choose an action:
+
+	0 - Start
+	1 - Stop
+	2 - Configure
+	3 - Status
+	4 - Quit
+
+Selection: 
+6/2/2016 8:08 AM [  3]: Getting Configuration Value: EventHubName -> danielle160531ingesteventhub2221240
+6/2/2016 8:08 AM [  3]: Getting Configuration Value: EventHubConnectionString -> Endpoint=sb://danielle1605312221240.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=eYOUQ7gy1FAU9ON0szRwiCEDAvNVcUiJwsZcerm8NH0=
+6/2/2016 8:08 AM [  3]: Event Hub Utility Details: Endpoint=sb://danielle1605312221240.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=eYOUQ7gy1FAU9ON0szRwiCEDAvNVcUiJwsZcerm8NH0= :: danielle160531ingesteventhub2221240
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:08 AM [  1]: Selection Entered: 3
+6/2/2016 8:08 AM [  1]: Getting Configuration Value: EventHubName -> danielle160531ingesteventhub2221240
+6/2/2016 8:08 AM [  1]: Getting Configuration Value: EventHubConnectionString -> Endpoint=sb://danielle1605312221240.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=eYOUQ7gy1FAU9ON0szRwiCEDAvNVcUiJwsZcerm8NH0=
+6/2/2016 8:08 AM [  1]: Generator: Predictive Maintenance Data Generator
+
+Configuration: 
+	EventHubName : danielle160531ingesteventhub2221240 
+
+	EventHubConnectionString : Endpoint=sb://danielle1605312221240.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=eYOUQ7gy1FAU9ON0szRwiCEDAvNVcUiJwsZcerm8NH0= 
+
+
+Data: 
+	Data Required: True
+	Data Online Source: False
+	Currently Available: True
+	Local Location: C:\Users\aniedea\Downloads\PredictiveMaintenanceDataGeneratorv1.0\PredictiveMaintenanceDataGeneratorv1.0\DataGenerator\PMGeneratorData
+	Local File: aircraftdemo_input_v4.csv
+
+Execution : Running
+
+Job Status: 
+	Last Started : 6/2/2016 8:08:34 AM 
+	Last Completed : 6/2/2016 8:08:34 AM 
+	Records Uploaded : 1 
+	Job Messages: 
+	Job Errors: 
+6/2/2016 8:08 AM [  1]: Choose an action:
+
+	0 - Start
+	1 - Stop
+	2 - Configure
+	3 - Status
+	4 - Quit
+
+Selection: 
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 480 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 477 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 475 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 478 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 480 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 491 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 490 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 491 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 477 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 475 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 491 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 490 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 476 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 478 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 484 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 491 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 478 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 477 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 478 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 478 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 480 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 477 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 484 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 479 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 479 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 475 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 488 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 484 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 478 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 489 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 475 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 484 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 488 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 484 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 478 (bytes)
+6/2/2016 8:08 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 479 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 491 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 488 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 489 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 477 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 479 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 477 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 475 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 479 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 491 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 487 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 484 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 477 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 480 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 475 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 480 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 479 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 488 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 486 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 497 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 480 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 480 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 476 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 490 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 490 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 480 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 484 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 479 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 487 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 479 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 479 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 475 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 480 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 484 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 480 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 489 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 477 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 478 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 479 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 477 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 489 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 478 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 484 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 478 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 479 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 498 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 484 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 478 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 480 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 479 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 485 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 477 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 490 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 479 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 479 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 488 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 491 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 479 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 479 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 481 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 477 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 490 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 492 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 484 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 476 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 480 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 496 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 482 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 484 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 485 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 479 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 490 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 495 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 493 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 494 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 483 (bytes)
+6/2/2016 8:09 AM [  3]: Individual Event Hub Record : danielle160531ingesteventhub2221240 -> 477 (bytes)

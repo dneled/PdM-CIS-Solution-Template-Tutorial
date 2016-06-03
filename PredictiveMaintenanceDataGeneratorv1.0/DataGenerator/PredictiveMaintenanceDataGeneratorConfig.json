@@ -1,0 +1,4 @@
+{
+  "EventHubName": "danielle160531ingesteventhub2221240",
+  "EventHubConnectionString": "Endpoint=sb://danielle1605312221240.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=eYOUQ7gy1FAU9ON0szRwiCEDAvNVcUiJwsZcerm8NH0="
+}
