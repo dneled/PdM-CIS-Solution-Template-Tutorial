@@ -22,5 +22,6 @@
 ## Directions
 1. Sign into the Azure portal (likely 2-factor authentication) at portal.azure.com
 2. Go to Gallery page for the solution template https://gallery.cortanaintelligence.com/SolutionTemplate/Predictive-Maintenance-for-Aerospace-1 and click on "Deploy"
-3. Usually takes ~20 minutes to deploy. Continue checking on it. If there is an error, try deleting the template and doing it again. If you get an error again, it might be due to resource constraints in your Azure portal. Ask a TA in the class for help.
-4. Follow along with the instructor or use the technical guide to set up the rest of the pieces: https://azure.microsoft.com/en-us/documentation/articles/cortana-analytics-technical-guide-predictive-maintenance/#strongmonitor-progressstrong 
+3. Remember the authentication you give the SQL Server, as you will need this later.
+4. Usually takes ~20 minutes to deploy. Continue checking on it. If there is an error, try deleting the template and doing it again. If you get an error again, it might be due to resource constraints in your Azure portal. Ask a TA in the class for help.
+5. Follow along with the instructor or use the technical guide to set up the rest of the pieces: https://azure.microsoft.com/en-us/documentation/articles/cortana-analytics-technical-guide-predictive-maintenance/#strongmonitor-progressstrong 
