@@ -28,6 +28,9 @@
 5. Follow along with the instructor or use the technical guide to set up the rest of the pieces: https://azure.microsoft.com/en-us/documentation/articles/cortana-analytics-technical-guide-predictive-maintenance/#strongmonitor-progressstrong 
 6. Get the materials off one of the USB sticks floating around the room.
 
+###Go Do's after the tutorial
+1. Want to do the template by hand? See deployment guide here: https://github.com/Azure/Cortana-Intelligence-Suite-Industry-Solutions/tree/master/Aerospace/Predictive%20Maintenance
+2. Interested in IOT? See the predictive maintenance pre-configured solution at azureiotsuite.com
 
 ### Other Notes
 1. If you want to demo this material, feel free to request access to the 24/7 running PBI dashboard here: https://msit.powerbi.com/groups/me/dashboards/24a7a8cf-c863-4337-a075-d9bd10ac0aa1
