@@ -26,7 +26,6 @@
 3. Remember the authentication you give the SQL Server, as you will need this later.
 4. Usually takes ~20 minutes to deploy. Continue checking on it. If there is an error, try deleting the template and doing it again. If you get an error again, it might be due to resource constraints in your Azure portal. Ask a TA in the class for help.
 5. Follow along with the instructor or use the technical guide to set up the rest of the pieces: https://azure.microsoft.com/en-us/documentation/articles/cortana-analytics-technical-guide-predictive-maintenance/#strongmonitor-progressstrong 
-6. Get the materials off one of the USB sticks floating around the room.
 
 ###Go Do's after the tutorial
 1. Want to do the template by hand? See deployment guide here: https://github.com/Azure/Cortana-Intelligence-Suite-Industry-Solutions/tree/master/Aerospace/Predictive%20Maintenance
