@@ -25,3 +25,10 @@
 3. Remember the authentication you give the SQL Server, as you will need this later.
 4. Usually takes ~20 minutes to deploy. Continue checking on it. If there is an error, try deleting the template and doing it again. If you get an error again, it might be due to resource constraints in your Azure portal. Ask a TA in the class for help.
 5. Follow along with the instructor or use the technical guide to set up the rest of the pieces: https://azure.microsoft.com/en-us/documentation/articles/cortana-analytics-technical-guide-predictive-maintenance/#strongmonitor-progressstrong 
+6. 
+
+
+### Other Notes
+1. If you want to demo this material, feel free to request access to the 24/7 running PBI dashboard here: https://msit.powerbi.com/groups/me/dashboards/24a7a8cf-c863-4337-a075-d9bd10ac0aa1
+2. Instructor emails: danielle.dean@microsoft.com and gshaheen@microsoft.com
+3. Thanks to our TA's! Hong and Mary
